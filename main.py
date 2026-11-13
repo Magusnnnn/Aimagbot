@@ -1018,7 +1018,6 @@ def setup_menu():
         ("buy", f"премиум за {PREMIUM_STARS} звёзд"),
         ("clear", "стереть память диалога"),
         ("id", "узнать свой Telegram ID"),
-        ("help", "помощь"),
     ]
     admin_only = [
         ("stats", "сколько в списке рассылки"),
